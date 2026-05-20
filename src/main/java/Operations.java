@@ -3,7 +3,7 @@ public class Operations {
 	
 	public void Add()
 	{
-		int a=20,b=10, c;
+		int a=20,b=10, c
 		c=a+b;
 		System.out.println("Addition is= "+c)
 	}
