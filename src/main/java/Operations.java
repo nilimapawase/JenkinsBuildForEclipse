@@ -11,7 +11,7 @@ public class Operations {
 	{
 		int a=20,b=10, c;
 		c=a-b;
-		System.out.println("Substraction is= "+c);
+		System.out.println("Substraction is= "+c)
 	}
 
 	public static void main(String[] args) {
