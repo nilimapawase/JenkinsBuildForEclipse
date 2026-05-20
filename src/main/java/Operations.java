@@ -5,7 +5,7 @@ public class Operations {
 	{
 		int a=20,b=10, c;
 		c=a+b;
-		System.out.println("Addition is= "+c);
+		System.out.println("Addition is= "+c)
 	}
 	public void Sub()
 	{
